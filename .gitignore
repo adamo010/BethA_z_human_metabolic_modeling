@@ -1,0 +1,20 @@
+#this is a gitignore file for the CORDA_CRC_human_models directory
+.DS_Store
+Burns_RNAseq_expression_bins_added/
+EUstd_diet_model_outputs/
+Burns_sample_specific_human_models/
+highfiber_diet_model_outputs/
+Failed_MSI_runs/
+TPM_abundances_from_kallisto/
+Recon3D_301/
+*.tsv
+*.csv
+*.txt
+*.mat
+*.pdf
+*.out
+*.mat
+*.pickle
+*.docx
+*.xml
+*.xlsx
